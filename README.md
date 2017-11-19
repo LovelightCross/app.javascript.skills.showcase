@@ -1,0 +1,1 @@
+To use the app, just input any error in the "Description" section, choose a severity level, and type any name to assign the issue. The issue will then be added to a list with a unique id number. You can then change the status from "open" to "closed" with the click of a button. You can also delete any issue from the list.
